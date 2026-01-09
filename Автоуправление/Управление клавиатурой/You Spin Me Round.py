@@ -1,0 +1,35 @@
+import pyautogui
+import time
+
+
+time.sleep(3)
+
+pyautogui.press('Y')
+pyautogui.press('return')
+pyautogui.press('o')
+pyautogui.press('return')
+pyautogui.press('u')
+pyautogui.press('return')
+pyautogui.press('S')
+pyautogui.press('return')
+pyautogui.press('p')
+pyautogui.press('return')
+pyautogui.press('i')
+pyautogui.press('return')
+pyautogui.press('n')
+pyautogui.press('return')
+pyautogui.press('M')
+pyautogui.press('return')
+pyautogui.press('e')
+pyautogui.press('return')
+pyautogui.press('R')
+pyautogui.press('return')
+pyautogui.press('o')
+pyautogui.press('return')
+pyautogui.press('u')
+pyautogui.press('return')
+pyautogui.press('n')
+pyautogui.press('return')
+pyautogui.press('d')
+while True:
+    input()
